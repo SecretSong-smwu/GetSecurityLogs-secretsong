@@ -1,8 +1,5 @@
 # GetSecurityLogs-secretsong
 
-> **GitHub Description (About 한 줄):**
-> DynamoDB에 저장된 보안 로그를 조회하는 AWS Lambda — AI 에이전트(AgentCore)의 조회 Tool로 사용
-
 AI 에이전트가 "최근 보안 로그 보여줘" 같은 자연어 요청을 처리할 때 호출하는 조회 Lambda입니다. 데이터 수집 파이프라인이 DynamoDB에 저장한 원본 로그를 조회·필터링·정렬해서 반환합니다.
 
 ## 개발 배경 (v2로 재작성한 이유)
